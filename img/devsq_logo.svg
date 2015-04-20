@@ -768,9 +768,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="281.85449"
-     inkscape:cy="725.91619"
+     inkscape:zoom="1.4"
+     inkscape:cx="375.60451"
+     inkscape:cy="592.20294"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -787,7 +787,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -801,14 +801,20 @@
        id="image5141-1"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAADJCAYAAABi8a0GAAAABHNCSVQICAgIfAhkiAAABgtJREFU eJzt3T+LJFUUxuF3/RDCKjqBaCKCCoL/UMxd2Ej0c/oFFDEQEUxETUVdMRDUSBMNdqaGMuiuubd7 zqnx+UEnu1zOswvNMmzVPYkkSZIkSZJ017o3ef6VJA+SvJ3kfpInL3/91ySPknyW5OMkX0/OGY1v Lr6J7iX5MMn3Sf7Z+PkuyQeZ/2Ly8XX3JUleSPLVDYD//XyZ5Dk+vjvqS/L4n7g/J5BXnz+SvM/H d8d8SZL3kvx9AuTV568k7/Dx3RFfkuTFJL+fEHn1+S3J83x8O/clefzDzxdnQF59Ps/cD1h8fJW+ pY/OiLz6fMDHt1NfksfftG9vAfoNH98OfUuv3QLy6vMqH19n3xMHfu/hTf9kE43M4pubxXeDWYe+ KG+eEHKstwbO8F3HN9dR36EvytMnhBxrZBbf3Cy+G8w69EW5f0LIsZ4aOMN3Hd9cR32HviiSLjv0 Rfn51hTJTwNn+K7jm+uo79AX5dEJIcca+Uvhu45vrqO+Q1+UT07nONrIrJEzo43MGjkz2siskTOj jcwaOTPa1KyXc3v/4fMSH9/OfEvdHyHg46v0rXp4C9AHfHw79S11f8yZj6/St+oiyS9nQP6Ysf+I 4uPr5FvV/VVMPr5K36o3cppv9qMkr/Px3THfqu7XxfDxVfpWdb+AjI/v5L5TXan6bpJnkjx7+es/ XH4+TY8rN/nG4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/ 3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpn z/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1 cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJ x1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeR x7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/ JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxv i2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV +pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH 4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/P Nx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e +fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0ab mtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcf X6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZ Pr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrP Nx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W 31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fp W3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIk /Z/7F4GDf4PQWb4zAAAAAElFTkSuQmCC "
        height="106"
-       width="106.52737" />
+       width="106.52737"
+       inkscape:export-filename="/home/n8fr8/dev/repos/DevSq/img/devsq_small.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="rect4013"
        width="121.78571"
        height="23.928572"
        x="208.21428"
-       y="399.50504" />
+       y="399.50504"
+       inkscape:export-filename="/home/n8fr8/dev/repos/DevSq/img/devsq_small.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -846,11 +852,36 @@
        x="215.35715"
        y="420.64789"
        id="text3987"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/n8fr8/dev/repos/DevSq/img/devsq_small.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
          sodipodi:role="line"
          x="215.35715"
          y="420.64789"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          id="tspan3991">devsq</tspan></text>
+    <image
+       y="513.64789"
+       x="136.02203"
+       id="image5141-1-9"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAADJCAYAAABi8a0GAAAABHNCSVQICAgIfAhkiAAABgtJREFU eJzt3T+LJFUUxuF3/RDCKjqBaCKCCoL/UMxd2Ej0c/oFFDEQEUxETUVdMRDUSBMNdqaGMuiuubd7 zqnx+UEnu1zOswvNMmzVPYkkSZIkSZJ017o3ef6VJA+SvJ3kfpInL3/91ySPknyW5OMkX0/OGY1v Lr6J7iX5MMn3Sf7Z+PkuyQeZ/2Ly8XX3JUleSPLVDYD//XyZ5Dk+vjvqS/L4n7g/J5BXnz+SvM/H d8d8SZL3kvx9AuTV568k7/Dx3RFfkuTFJL+fEHn1+S3J83x8O/clefzDzxdnQF59Ps/cD1h8fJW+ pY/OiLz6fMDHt1NfksfftG9vAfoNH98OfUuv3QLy6vMqH19n3xMHfu/hTf9kE43M4pubxXeDWYe+ KG+eEHKstwbO8F3HN9dR36EvytMnhBxrZBbf3Cy+G8w69EW5f0LIsZ4aOMN3Hd9cR32HviiSLjv0 Rfn51hTJTwNn+K7jm+uo79AX5dEJIcca+Uvhu45vrqO+Q1+UT07nONrIrJEzo43MGjkz2siskTOj jcwaOTPa1KyXc3v/4fMSH9/OfEvdHyHg46v0rXp4C9AHfHw79S11f8yZj6/St+oiyS9nQP6Ysf+I 4uPr5FvV/VVMPr5K36o3cppv9qMkr/Px3THfqu7XxfDxVfpWdb+AjI/v5L5TXan6bpJnkjx7+es/ XH4+TY8rN/nG4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/ 3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpn z/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1 cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJ x1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeR x7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/ JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxv i2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV +pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH 4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/P Nx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e +fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0ab mtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcf X6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZ Pr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrP Nx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W 31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fp W3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIk /Z/7F4GDf4PQWb4zAAAAAElFTkSuQmCC "
+       height="106"
+       width="106.52737"
+       inkscape:export-filename="/home/n8fr8/dev/repos/DevSq/img/devsq_small.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:47.04837036px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="235.97821"
+       y="606.85846"
+       id="text4033"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="235.97821"
+         y="606.85846"
+         style="font-size:120px;font-weight:bold;-inkscape-font-specification:Sans Bold;letter-spacing:-8.59px"
+         id="tspan4037">devsq</tspan></text>
   </g>
 </svg>

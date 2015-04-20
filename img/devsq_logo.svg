@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="devsq_logo.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#dots-square-grid-07"
+       id="pattern3577"
+       patternTransform="translate(212.63966,161.91526)" />
+    <pattern
+       width="100"
+       patternUnits="userSpaceOnUse"
+       patternContentUnits="userSpaceOnUse"
+       id="dots-square-grid-07"
+       height="100">
+      <g
+         id="row-1">
+        <ellipse
+           id="ellipse3252"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="5" />
+        <ellipse
+           id="ellipse3254"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="15" />
+        <ellipse
+           id="ellipse3256"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="25" />
+        <ellipse
+           id="ellipse3258"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="35" />
+        <ellipse
+           id="ellipse3260"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="45" />
+        <ellipse
+           id="ellipse3262"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="55" />
+        <ellipse
+           id="ellipse3264"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="65" />
+        <ellipse
+           id="ellipse3266"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="75" />
+        <ellipse
+           id="ellipse3268"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="85" />
+        <ellipse
+           id="ellipse3270"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="5"
+           cx="95" />
+      </g>
+      <g
+         id="row-2">
+        <ellipse
+           id="ellipse3273"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="5" />
+        <ellipse
+           id="ellipse3275"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="15" />
+        <ellipse
+           id="ellipse3277"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="25" />
+        <ellipse
+           id="ellipse3279"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="35" />
+        <ellipse
+           id="ellipse3281"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="45" />
+        <ellipse
+           id="ellipse3283"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="55" />
+        <ellipse
+           id="ellipse3285"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="65" />
+        <ellipse
+           id="ellipse3287"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="75" />
+        <ellipse
+           id="ellipse3289"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="85" />
+        <ellipse
+           id="ellipse3291"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="15"
+           cx="95" />
+      </g>
+      <g
+         id="row-3">
+        <ellipse
+           id="ellipse3294"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="5" />
+        <ellipse
+           id="ellipse3296"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="15" />
+        <ellipse
+           id="ellipse3298"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="25" />
+        <ellipse
+           id="ellipse3300"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="35" />
+        <ellipse
+           id="ellipse3302"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="45" />
+        <ellipse
+           id="ellipse3304"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="55" />
+        <ellipse
+           id="ellipse3306"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="65" />
+        <ellipse
+           id="ellipse3308"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="75" />
+        <ellipse
+           id="ellipse3310"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="85" />
+        <ellipse
+           id="ellipse3312"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="25"
+           cx="95" />
+      </g>
+      <g
+         id="row-4">
+        <ellipse
+           id="ellipse3315"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="5" />
+        <ellipse
+           id="ellipse3317"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="15" />
+        <ellipse
+           id="ellipse3319"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="25" />
+        <ellipse
+           id="ellipse3321"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="35" />
+        <ellipse
+           id="ellipse3323"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="45" />
+        <ellipse
+           id="ellipse3325"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="55" />
+        <ellipse
+           id="ellipse3327"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="65" />
+        <ellipse
+           id="ellipse3329"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="75" />
+        <ellipse
+           id="ellipse3331"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="85" />
+        <ellipse
+           id="ellipse3333"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="35"
+           cx="95" />
+      </g>
+      <g
+         id="row-5">
+        <ellipse
+           id="ellipse3336"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="5" />
+        <ellipse
+           id="ellipse3338"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="15" />
+        <ellipse
+           id="ellipse3340"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="25" />
+        <ellipse
+           id="ellipse3342"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="35" />
+        <ellipse
+           id="ellipse3344"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="45" />
+        <ellipse
+           id="ellipse3346"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="55" />
+        <ellipse
+           id="ellipse3348"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="65" />
+        <ellipse
+           id="ellipse3350"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="75" />
+        <ellipse
+           id="ellipse3352"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="85" />
+        <ellipse
+           id="ellipse3354"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="45"
+           cx="95" />
+      </g>
+      <g
+         id="row-6">
+        <ellipse
+           id="ellipse3357"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="5" />
+        <ellipse
+           id="ellipse3359"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="15" />
+        <ellipse
+           id="ellipse3361"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="25" />
+        <ellipse
+           id="ellipse3363"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="35" />
+        <ellipse
+           id="ellipse3365"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="45" />
+        <ellipse
+           id="ellipse3367"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="55" />
+        <ellipse
+           id="ellipse3369"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="65" />
+        <ellipse
+           id="ellipse3371"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="75" />
+        <ellipse
+           id="ellipse3373"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="85" />
+        <ellipse
+           id="ellipse3375"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="55"
+           cx="95" />
+      </g>
+      <g
+         id="row-7">
+        <ellipse
+           id="ellipse3378"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="5" />
+        <ellipse
+           id="ellipse3380"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="15" />
+        <ellipse
+           id="ellipse3382"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="25" />
+        <ellipse
+           id="ellipse3384"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="35" />
+        <ellipse
+           id="ellipse3386"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="45" />
+        <ellipse
+           id="ellipse3388"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="55" />
+        <ellipse
+           id="ellipse3390"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="65" />
+        <ellipse
+           id="ellipse3392"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="75" />
+        <ellipse
+           id="ellipse3394"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="85" />
+        <ellipse
+           id="ellipse3396"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="65"
+           cx="95" />
+      </g>
+      <g
+         id="row-8">
+        <ellipse
+           id="ellipse3399"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="5" />
+        <ellipse
+           id="ellipse3401"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="15" />
+        <ellipse
+           id="ellipse3403"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="25" />
+        <ellipse
+           id="ellipse3405"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="35" />
+        <ellipse
+           id="ellipse3407"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="45" />
+        <ellipse
+           id="ellipse3409"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="55" />
+        <ellipse
+           id="ellipse3411"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="65" />
+        <ellipse
+           id="ellipse3413"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="75" />
+        <ellipse
+           id="ellipse3415"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="85" />
+        <ellipse
+           id="ellipse3417"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="75"
+           cx="95" />
+      </g>
+      <g
+         id="row-9">
+        <ellipse
+           id="ellipse3420"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="5" />
+        <ellipse
+           id="ellipse3422"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="15" />
+        <ellipse
+           id="ellipse3424"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="25" />
+        <ellipse
+           id="ellipse3426"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="35" />
+        <ellipse
+           id="ellipse3428"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="45" />
+        <ellipse
+           id="ellipse3430"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="55" />
+        <ellipse
+           id="ellipse3432"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="65" />
+        <ellipse
+           id="ellipse3434"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="75" />
+        <ellipse
+           id="ellipse3436"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="85" />
+        <ellipse
+           id="ellipse3438"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="85"
+           cx="95" />
+      </g>
+      <g
+         id="row-10">
+        <ellipse
+           id="ellipse3441"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="5" />
+        <ellipse
+           id="ellipse3443"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="15" />
+        <ellipse
+           id="ellipse3445"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="25" />
+        <ellipse
+           id="ellipse3447"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="35" />
+        <ellipse
+           id="ellipse3449"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="45" />
+        <ellipse
+           id="ellipse3451"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="55" />
+        <ellipse
+           id="ellipse3453"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="65" />
+        <ellipse
+           id="ellipse3455"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="75" />
+        <ellipse
+           id="ellipse3457"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="85" />
+        <ellipse
+           id="ellipse3459"
+           style="fill:black;stroke:none;stroke-width:0"
+           ry="3.5"
+           rx="3.5"
+           cy="95"
+           cx="95" />
+      </g>
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="281.85449"
+     inkscape:cy="725.91619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1508"
+     inkscape:window-height="1068"
+     inkscape:window-x="136"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="358.29077"
+       x="216.37917"
+       id="image5141-1"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAADJCAYAAABi8a0GAAAABHNCSVQICAgIfAhkiAAABgtJREFU eJzt3T+LJFUUxuF3/RDCKjqBaCKCCoL/UMxd2Ej0c/oFFDEQEUxETUVdMRDUSBMNdqaGMuiuubd7 zqnx+UEnu1zOswvNMmzVPYkkSZIkSZJ017o3ef6VJA+SvJ3kfpInL3/91ySPknyW5OMkX0/OGY1v Lr6J7iX5MMn3Sf7Z+PkuyQeZ/2Ly8XX3JUleSPLVDYD//XyZ5Dk+vjvqS/L4n7g/J5BXnz+SvM/H d8d8SZL3kvx9AuTV568k7/Dx3RFfkuTFJL+fEHn1+S3J83x8O/clefzDzxdnQF59Ps/cD1h8fJW+ pY/OiLz6fMDHt1NfksfftG9vAfoNH98OfUuv3QLy6vMqH19n3xMHfu/hTf9kE43M4pubxXeDWYe+ KG+eEHKstwbO8F3HN9dR36EvytMnhBxrZBbf3Cy+G8w69EW5f0LIsZ4aOMN3Hd9cR32HviiSLjv0 Rfn51hTJTwNn+K7jm+uo79AX5dEJIcca+Uvhu45vrqO+Q1+UT07nONrIrJEzo43MGjkz2siskTOj jcwaOTPa1KyXc3v/4fMSH9/OfEvdHyHg46v0rXp4C9AHfHw79S11f8yZj6/St+oiyS9nQP6Ysf+I 4uPr5FvV/VVMPr5K36o3cppv9qMkr/Px3THfqu7XxfDxVfpWdb+AjI/v5L5TXan6bpJnkjx7+es/ XH4+TY8rN/nG4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/ 3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpn z/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1 cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJ x1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeR x7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/ JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxv i2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV +pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH 4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/P Nx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e +fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0ab mtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcf X6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZ Pr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrP Nx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W 31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fp W3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIk /Z/7F4GDf4PQWb4zAAAAAElFTkSuQmCC "
+       height="106"
+       width="106.52737" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4013"
+       width="121.78571"
+       height="23.928572"
+       x="208.21428"
+       y="399.50504" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="121.78571"
+       y="288.57648"
+       id="text3583"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3585"
+         x="121.78571"
+         y="288.57648"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Developer Square</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="187.14287"
+       y="306.64792"
+       id="text3589"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3591"
+         x="187.14287"
+         y="306.64792"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L;fill:#4d4d4d;fill-opacity:1">Code Together for a Better Tomorrow</tspan></text>
+    <image
+       y="158.21933"
+       x="224.25835"
+       id="image5141"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAADJCAYAAABi8a0GAAAABHNCSVQICAgIfAhkiAAABgtJREFU eJzt3T+LJFUUxuF3/RDCKjqBaCKCCoL/UMxd2Ej0c/oFFDEQEUxETUVdMRDUSBMNdqaGMuiuubd7 zqnx+UEnu1zOswvNMmzVPYkkSZIkSZJ017o3ef6VJA+SvJ3kfpInL3/91ySPknyW5OMkX0/OGY1v Lr6J7iX5MMn3Sf7Z+PkuyQeZ/2Ly8XX3JUleSPLVDYD//XyZ5Dk+vjvqS/L4n7g/J5BXnz+SvM/H d8d8SZL3kvx9AuTV568k7/Dx3RFfkuTFJL+fEHn1+S3J83x8O/clefzDzxdnQF59Ps/cD1h8fJW+ pY/OiLz6fMDHt1NfksfftG9vAfoNH98OfUuv3QLy6vMqH19n3xMHfu/hTf9kE43M4pubxXeDWYe+ KG+eEHKstwbO8F3HN9dR36EvytMnhBxrZBbf3Cy+G8w69EW5f0LIsZ4aOMN3Hd9cR32HviiSLjv0 Rfn51hTJTwNn+K7jm+uo79AX5dEJIcca+Uvhu45vrqO+Q1+UT07nONrIrJEzo43MGjkz2siskTOj jcwaOTPa1KyXc3v/4fMSH9/OfEvdHyHg46v0rXp4C9AHfHw79S11f8yZj6/St+oiyS9nQP6Ysf+I 4uPr5FvV/VVMPr5K36o3cppv9qMkr/Px3THfqu7XxfDxVfpWdb+AjI/v5L5TXan6bpJnkjx7+es/ XH4+TY8rN/nG4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/ 3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpn z/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1 cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJ x1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeR x7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/ JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxv i2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV +pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH 4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZPr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/P Nx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrPNx9fpc+e+fPN4pub1cpnz/y2+Obavc+e +fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W31y799kzf75ZI2dGG5k1cma0kVkjZ0ab mtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fpW3WR3nu++fgqfau6v4rJx1fpW9V9zzcf X6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIkSZIkSZIk7SZ75vkOxTeRx7D5+I7U/cUZ Pr5KX5L+e775+Cp9Sfq/3M/HV+lL0n/PNx9fpS9J/wvI+PgqfUvd93zz8VX6kvS/JJmPr9K31GrP Nx9fpc+e+fPN4pub1cpnz/y2+Obavc+e+fPN4pub1cpnz/y2+Obavc+eeWlD9sxvi2+u3fvsmd8W 31y799kzf75ZI2dGG5k1cma0kVkjZ0abmtV9zzcfX6VvqfsjBHx8lb5V3fd88/FV+pa6P+bMx1fp W3WR3nu++fgqfau6v4rJx1fpW9V9zzcfX6VvVffrYvj4Kn2rul9Axsd3cp8983yH4pMkSZIkSZIk /Z/7F4GDf4PQWb4zAAAAAElFTkSuQmCC "
+       height="106"
+       width="106.52737" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="215.35715"
+       y="420.64789"
+       id="text3987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="215.35715"
+         y="420.64789"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         id="tspan3991">devsq</tspan></text>
+  </g>
+</svg>

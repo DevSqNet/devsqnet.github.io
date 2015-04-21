@@ -770,7 +770,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="375.60451"
-     inkscape:cy="592.20294"
+     inkscape:cy="649.3458"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -787,7 +787,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -829,7 +829,7 @@
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Developer Square</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans"
        x="187.14287"
        y="306.64792"
        id="text3589"
@@ -838,7 +838,7 @@
          id="tspan3591"
          x="187.14287"
          y="306.64792"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L;fill:#4d4d4d;fill-opacity:1">Code Together for a Better Tomorrow</tspan></text>
+         style="font-size:14px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L Bold Italic;fill:#1a1a1a;fill-opacity:1">Code Together for a Better Tomorrow</tspan></text>
     <image
        y="158.21933"
        x="224.25835"

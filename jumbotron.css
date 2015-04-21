@@ -3,3 +3,15 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.jumbotron
+{
+background-image: url('img/motherboardcity.jpg');
+}
+
+.jumbotext
+{
+background-color:rgba(220,220,220,.8);
+padding:6px;
+margin:6px;
+}

@@ -6,12 +6,11 @@ body {
 
 .jumbotron
 {
-background-image: url('img/motherboardcity.jpg');
+background-color:#FFFFFF;
 }
 
 .jumbotext
 {
-background-color:rgba(220,220,220,.5);
 padding:6px;
 margin:6px;
 }

@@ -14,3 +14,33 @@ background-color:#00abea;
 padding:6px;
 margin:6px;
 }
+
+
+    .language-selector {
+        float: right;
+        margin: 5px;
+    }
+    
+    .language-selector .btn-default {
+        
+        border-color: #515151;
+        color: #FFF;
+background-color:#00abea;
+    }
+    
+    .language-selector .btn-default:hover, 
+    .language-selector .btn-default:focus, 
+    .language-selector .btn-default:active, 
+    .language-selector .btn-default.active {
+        
+        border-color: #FFF;
+        color: #FFF;
+    }  
+    
+    .language-selector .dropdown-menu {
+        
+        left: auto;
+        right: 0;
+    }  
+    
+

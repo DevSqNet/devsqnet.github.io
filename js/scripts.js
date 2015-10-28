@@ -8,11 +8,11 @@ defaultLanguage : true
 },
 {
 code : 'fa',
-path : 'index.fa.html'
+path : 'fa'
 },
 {
 code : 'fa-ir',
-path : 'index.fa.html'
+path : 'fa'
 }
 ]
 });
